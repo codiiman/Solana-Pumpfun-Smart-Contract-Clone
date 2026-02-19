@@ -1,0 +1,28 @@
+# Build artifacts
+target/
+**/*.rs.bk
+*.pem
+.DS_Store
+
+# IDL
+target/idl/
+target/types/
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# Test
+.anchor/
+test-ledger/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log

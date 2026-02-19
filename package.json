@@ -1,0 +1,19 @@
+{
+  "name": "pump-fun-clone",
+  "version": "0.1.0",
+  "description": "Pump.fun bonding curve smart contract clone",
+  "scripts": {
+    "test": "anchor test"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.30.1",
+    "@solana/web3.js": "^1.87.6",
+    "@solana/spl-token": "^0.4.1",
+    "chai": "^4.3.10"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.5",
+    "@types/mocha": "^10.0.1",
+    "typescript": "^5.0.0"
+  }
+}
