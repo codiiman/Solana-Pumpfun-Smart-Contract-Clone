@@ -220,7 +220,7 @@ pump-fun-clone/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd Solana-Pumpfun-Smart-Contract-Clone-1
+   cd Solana-Pumpfun-Smart-Contract-Clone
    ```
 
 2. **Install Anchor**
